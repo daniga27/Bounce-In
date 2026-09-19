@@ -42,13 +42,23 @@ To use the disks each player has 3 keys:
 
 
 
-| Player | Disk 1 | Disk 2 | Disk 3 |
+Player 1:
 
-| --- | --- | --- | --- |
+\- Disk 1: R
 
-| Player 1 | R | T | Y |
+\- Disk 2: T
 
-| Player 2 | U | I | O |
+\- Disk 3: Y
+
+
+
+Player 2:
+
+\- Disk 1: U
+
+\- Disk 2: I
+
+\- Disk 3: O
 
 
 
