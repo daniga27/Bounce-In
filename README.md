@@ -4,6 +4,12 @@ Bounce-In! is an arcade video game that mixes the air hockey and pinball mechani
 
 
 
+# Download
+
+Check my itch.io page to download and try the game here: https://daniga27.itch.io/bounce-in
+
+
+
 # About the project
 
 Bounce-In! is a video game that comes from an academic project for a 2D Design subject at the USJ (Universidad de San Jorge).
