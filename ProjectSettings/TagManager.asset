@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Disk
+  - GoalPlayer1
+  - FadeManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3739429905
+    locked: 0
+  - name: Walls
+    uniqueID: 2451677237
+    locked: 0
+  - name: Timer-Text
+    uniqueID: 1784050613
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2324377093
+    locked: 0
+  - name: Obstacles2
+    uniqueID: 295333529
+    locked: 0
+  - name: Disk-Arrow
+    uniqueID: 183383491
+    locked: 0
+  - name: Goals
+    uniqueID: 2442497921
+    locked: 0
+  - name: UI
+    uniqueID: 2220782337
+    locked: 0
+  m_RenderingLayers:
+  - Default
